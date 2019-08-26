@@ -1,0 +1,15 @@
+h2 {
+  font-style: italic;
+  font-weight: bold;
+}
+
+h4 {
+  font-family: Helvetica;
+  padding: 2px
+}
+
+img {
+  float: right;
+  padding: 2px;
+  margin: 10px
+}
